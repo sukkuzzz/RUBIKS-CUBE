@@ -1,5 +1,5 @@
 # rubiks-cube-solver# RUBIKS-CUBE
-Rubik's Cube Solver
+
 ![2Dcube](https://github.com/user-attachments/assets/47263c80-6b14-4133-a5fa-85e5d063f320)
 
 **Overview**
@@ -19,7 +19,7 @@ Performance Metrics: Evaluate the efficiency of each algorithm in solving the cu
 
 
 **Clone Repository**
-git clone https://github.com/your-username/rubiks-cube-solver.git
+[git clone https://github.com/your-username/rubiks-cube-solver.git](https://github.com/sukkuzzz/RUBIKS-CUBE.git)
 cd rubiks-cube-solver
 
 
